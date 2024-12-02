@@ -1,4 +1,4 @@
-round,day,month,year,season,hometeam,goalsht,goalsvt,visitingteam
+round,day,month,year,season,home_team,goal_home,goal_visiting,visiting_team
 1,12,5,2007,2007,Figueirense,3,6,Athletico-PR
 1,12,5,2007,2007,Fluminense,2,2,Cruzeiro
 1,12,5,2007,2007,São Paulo,2,0,Goiás
